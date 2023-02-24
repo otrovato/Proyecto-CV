@@ -1,4 +1,4 @@
-/*celeste= #026fff*/
+
 
 body{
 font-family:'Source Sans Pro', 'Times Roman';
@@ -22,7 +22,7 @@ letter-spacing:-.2px;
 color: white;
 }
 h1 strong{
-	color:#026fff;
+	color:white;
 }
 .hero{
 	height: 200px;
